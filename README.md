@@ -8,6 +8,7 @@ De cada persona se registra su edad, o sea cuántos años tiene. Debe poder obte
   <li>la inteligencia es de 12 para las personas de entre 20 y 40 años, y de 8 para las otras.</li>
   <li>la potencia es de 20 para todas las personas.</li>
   <li>una persona es destacada si tiene, exactamente, 25 ó 35 años. O sea, si una persona tiene 25 años es destacada, si tiene 35 años es destacada, si tiene cualquier otra edad no es destacada.</li>
+</ul>
 <br>
 Además de estas definiciones que sirven para la generalidad de las personas, se definen algunos tipos de personas con características especiales. En principio vamos a contemplar a los atletas y los docentes.<br>
 De cada atleta se mantienen la masa muscular (que comienza en 4 kilos) y la cantidad de técnicas que conoce (que comienza en 2).<br>
