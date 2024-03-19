@@ -22,11 +22,11 @@ Un docente es destacado si dio más de 3 cursos.<br>
 De cada planeta se conocen los habitantes, que son personas. También la cantidad de museos que hay en el planeta.<br>
 Se tiene que poder obtener, para cada planeta<br>
 <br>
-<ol>
+<ul>
   <li>si es culto: la condición es que haya al menos dos museos, y que todos los habitantes tengan al menos 10 unidades de inteligencia</li>
   <li>la delegación diplomática, que está formada por los habitantes destacados.</li>
   <li>la potencia real: es la suma de la potencia de todos los habitantes.</li>
-</ol>
+</ul>
 
 
 
