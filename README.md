@@ -25,8 +25,6 @@ Se tiene que poder obtener, para cada planeta<br>
 *	la delegación diplomática, que está formada por los habitantes destacados.<br>
 *	si es culto: la condición es que haya al menos dos museos, y que todos los habitantes tengan al menos 10 unidades de inteligencia.<br>
 *	la potencia real: es la suma de la potencia de todos los habitantes.<br>
-* la inteligencia es de 12 para las personas de entre 20 y 40 años, y de 8 para las otras.<br>
-* la potencia es de 20 para todas las personas.<br>
 
 
 
