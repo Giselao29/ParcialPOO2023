@@ -26,7 +26,7 @@ Se tiene que poder obtener, para cada planeta<br>
 *	si es culto: la condición es que haya al menos dos museos, y que todos los habitantes tengan al menos 10 unidades de inteligencia.<br>
 
 <li>
-  <ol>la potencia real: es la suma de la potencia de todos los habitantes.</ol>
+<ol>la potencia real: es la suma de la potencia de todos los habitantes.</ol>
 </li>
 
 
