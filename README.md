@@ -14,7 +14,7 @@ La potencia de un atleta es la suma del valor común para todas las personas, co
 Un atleta es destacado si cumple la condición común para todas las personas, o bien, conoce más de 5 técnicas.<br>
 Definir las siguientes dos acciones para los atletas:<br>
 <br>
-*entrenar una cantidad de días: el efecto es sumar a la masa muscular 1 kilo por cada 5 días de entrenamiento. P.ej. el efecto de entrenar 15 días, es sumar 3 kilos a la masa muscular.<br>
-*aprender una técnica: el efecto es sumar uno a la cantidad de técnicas que conoce el atleta.<br>
+* entrenar una cantidad de días: el efecto es sumar a la masa muscular 1 kilo por cada 5 días de entrenamiento. P.ej. el efecto de entrenar 15 días, es sumar 3 kilos a la masa muscular.<br>
+* aprender una técnica: el efecto es sumar uno a la cantidad de técnicas que conoce el atleta.<br>
 
 
