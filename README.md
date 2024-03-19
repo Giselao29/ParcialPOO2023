@@ -13,8 +13,8 @@ De cada atleta se mantienen la masa muscular (que comienza en 4 kilos) y la cant
 La potencia de un atleta es la suma del valor común para todas las personas, con la multiplicación entre masa muscular y cantidad de técnicas que conoce.<br>
 Un atleta es destacado si cumple la condición común para todas las personas, o bien, conoce más de 5 técnicas.<br>
 Definir las siguientes dos acciones para los atletas:<br>
-* aprender una técnica: el efecto es sumar uno a la cantidad de técnicas que conoce el atleta.<br>
-* entrenar una cantidad de días: el efecto es sumar a la masa muscular 1 kilo por cada 5 días de entrenamiento. P.ej. el efecto de entrenar 15 días, es sumar 3 kilos a la masa muscular<br>
+<br>* aprender una técnica: el efecto es sumar uno a la cantidad de técnicas que conoce el atleta.<br>
+<br>* entrenar una cantidad de días: el efecto es sumar a la masa muscular 1 kilo por cada 5 días de entrenamiento. P.ej. el efecto de entrenar 15 días, es sumar 3 kilos a la masa muscular<br>
 De cada docente se conoce la cantidad de cursos que dio, que arranca en 0.<br>
 La inteligencia de un docente es la suma del valor común para todas las personas, con el doble de la cantidad de cursos que dio.<br>
 Un docente es destacado si dio más de 3 cursos.<br>
