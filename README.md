@@ -3,7 +3,8 @@
 ## Modelo básico de personas y planetas.
 
 Nos piden armar parte del modelo de un juego con temática de Star Wars, que incluye a los planetas y a sus habitantes.
-De cada persona se registra su edad, o sea cuántos años tiene. Debe poder obtenerse: la potencia, la inteligencia y si es o no destacado. Potencia e inteligencia son dos valores numéricos. En principio, corresponden estas definiciones:<br>
+De cada persona se registra su edad, o sea cuántos años tiene. Debe poder obtenerse: la potencia, la inteligencia y si es o no destacado. Potencia e inteligencia son dos valores numéricos. En principio, corresponden estas definiciones:
+<br>
 <ul>
   <li>la inteligencia es de 12 para las personas de entre 20 y 40 años, y de 8 para las otras.</li>
   <li>la potencia es de 20 para todas las personas.</li>
@@ -14,8 +15,8 @@ Además de estas definiciones que sirven para la generalidad de las personas, se
 De cada atleta se mantienen la masa muscular (que comienza en 4 kilos) y la cantidad de técnicas que conoce (que comienza en 2).<br>
 La potencia de un atleta es la suma del valor común para todas las personas, con la multiplicación entre masa muscular y cantidad de técnicas que conoce.<br>
 Un atleta es destacado si cumple la condición común para todas las personas, o bien, conoce más de 5 técnicas.<br>
-Definir las siguientes dos acciones para los atletas:<br>
-
+Definir las siguientes dos acciones para los atletas:
+<br>
 <ul>
   <li>aprender una técnica: el efecto es sumar uno a la cantidad de técnicas que conoce el atleta.</li>
   <li>entrenar una cantidad de días: el efecto es sumar a la masa muscular 1 kilo por cada 5 días de entrenamiento. P.ej. el efecto de entrenar 15 días, es sumar 3 kilos a la masa muscular</li>
